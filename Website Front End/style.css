@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+.navpad{
+    padding-right: 200px;
+}
+#navend{
+    padding-left: 10px;
+}
+.fr{
+    float:right;
+}
+.fl{
+    float: left;
+}
+#logopadding{
+    padding-right:200px;
+    padding-left:200px;
+}
+.imgsize{
+    width: 300px;
+}
